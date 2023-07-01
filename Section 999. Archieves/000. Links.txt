@@ -23,3 +23,7 @@ Section 006:
 https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+https://appbrewery.github.io/css-inspection/
+https://appbrewery.github.io/box-model/
+https://fonts.google.com/specimen/Libre+Baskerville
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
