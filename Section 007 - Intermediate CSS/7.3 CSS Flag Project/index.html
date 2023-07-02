@@ -6,6 +6,49 @@
   <title>CSS Flag Project</title>
   <style>
     /* Write your CSS Code here */
+    html{
+      background-color: black;
+    }
+
+    p{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 80px;
+      text-align: center ;
+      margin: 0;
+    }
+
+    .flag > p{
+      color: white;
+    }
+    .flag{
+      height: 600px;
+      width: 900px;
+      background-color: #CE1126;
+      border: 5px solid white;
+      position: relative;
+    }
+
+    .flag > div{
+      height: 50%;
+      width: 100%;
+      background-color: #002868;
+      position: absolute;
+      top: 25%;
+    }
+
+    .flag > div > div{
+      height: 200px;
+      width: 200px;
+      background-color: white;
+      border-radius: 50%;
+      position: absolute;
+      top: 50px; /* (Height of parent div divided by 2) - (height of the current div divided by 2)*/
+      /* top: 15%; */
+      left: 350px; (width of parent div divided by 2) - (width of the current div divided by 2)*/
+
+    }
+
+    
     
   </style>
 </head>
