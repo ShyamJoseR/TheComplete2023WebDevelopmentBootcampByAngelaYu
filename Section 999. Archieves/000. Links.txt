@@ -27,3 +27,6 @@ https://appbrewery.github.io/css-inspection/
 https://appbrewery.github.io/box-model/
 https://fonts.google.com/specimen/Libre+Baskerville
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
+
+Section 006:
+https://appbrewery.github.io/css-positioning/
