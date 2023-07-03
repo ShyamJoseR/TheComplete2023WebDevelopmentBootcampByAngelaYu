@@ -28,6 +28,18 @@ https://appbrewery.github.io/box-model/
 https://fonts.google.com/specimen/Libre+Baskerville
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
-Section 006:
+Section 007:
 https://appbrewery.github.io/css-positioning/
 https://appbrewery.github.io/flag-of-laos/
+
+Section 008:
+https://appbrewery.github.io/css-display/
+https://tastybasics.nl/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+https://appbrewery.github.io/css-display/
+
+Section 009:
+https://saijogeorge.com/css-puns/
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
