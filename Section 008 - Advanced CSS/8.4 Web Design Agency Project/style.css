@@ -10,11 +10,12 @@ body {
   flex: 1;
 }
 
-
-
-h1 {
-  font-size: 5rem;
+.logo{
+  width: 100px;
 }
+
+
+
 
 footer {
   text-align: right;
@@ -31,6 +32,10 @@ footer {
 @media (min-width: 701px){
   .card{
     width: 50%;
+  }
+
+  h1 {
+    font-size: 5rem;
   }
 
   .left{
@@ -55,6 +60,11 @@ footer {
   .tile-image{
     width: 100%;
     display: block;
+    object-fit: cover;
+  }
+
+  h1 {
+    font-size: 3rem;
   }
 
   .left{
