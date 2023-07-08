@@ -19,11 +19,79 @@
     HINT: Remember you can't change the properties of grid lines.
     But grid lines are transparent!
     */
+
+    .overall{
+      height: 100vh;
+      display: flex;
+      flex: 1fr;
+      justify-content: center;
+      align-items: center;
+    }
+    .Mondrian-art {
+      background-color: #000;
+      height: 748px;
+      width: 748px;
+      display: grid;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 132px 155px 20px;
+      gap: 9px;
+    }
+
+    .red {
+      background-color: #E72F24;
+    }
+
+    .white {
+      background-color: #F0F1EC;
+    }
+
+    .blue {
+      background-color: #004592;
+      border-bottom: #000 solid 2px;
+    }
+
+    .yellow {
+      background-color: #F9D01E;
+    }
+
+    .black {
+      background-color: #232629;
+    }
+
+    .one {
+      grid-column: span 3;
+    }
+
+    .two {
+      grid-row: span 2;
+    }
+
+    .three {
+      grid-row: span 2;
+      grid-column: span 2;
+    }
+
+    .four {
+      grid-row: span 2;
+    }
   </style>
 </head>
 
 <body>
   <!-- Write your HTML here -->
+  <div class="overall">
+    <div class="Mondrian-art">
+      <div class="red"></div>
+      <div class="white one"></div>
+      <div class="white two"></div>
+      <div class="white three"></div>
+      <div class="blue"></div>
+      <div class="white four"></div>
+      <div class="white five"></div>
+      <div class="yellow"></div>
+      <div class="black"></div>
+    </div>
+  </div>
 </body>
 
 </html>
